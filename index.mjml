@@ -27,13 +27,17 @@
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-button background-color="#999" border-radius="50px" color="white">
+        <mj-button background-color="#999" border-radius="50px" color="white" href="https://www.fcporto.pt/pt">
           Clique Aqui!
         </mj-button>
       </mj-column>
     </mj-section>	
     <mj-section>
-  		<mj-column>
+      <mj-column>
+        <mj-image width="300px" src="https://www.online-image-editor.com//styles/2014/images/example_image.png" href="https://www.fcporto.pt/pt" />
+      </mj-column>
+      <mj-column>
+        <mj-image width="300px" src="https://www.online-image-editor.com//styles/2014/images/example_image.png" href="https://www.fcporto.pt/pt" />
       </mj-column>
     </mj-section>
     
